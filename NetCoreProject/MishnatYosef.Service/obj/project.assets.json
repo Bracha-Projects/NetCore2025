@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
+      "projectUniqueName": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
       "projectName": "MishnatYosef.Service",
-      "projectPath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
+      "projectPath": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
       "packagesPath": "C:\\Users\\Yoga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\obj\\",
+      "outputPath": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\MishnatYosef.Core.csproj": {
-              "projectPath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\MishnatYosef.Core.csproj"
+            "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\MishnatYosef.Core.csproj": {
+              "projectPath": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\MishnatYosef.Core.csproj"
             }
           }
         }

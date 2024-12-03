@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using MishnatYosef.Core.Repositories;
 using MishnatYosef.Core.Services;
 using MishnatYosef.Data;
@@ -26,8 +27,8 @@ builder.Services.AddScoped<IDistributionStationService, DistributionStationServi
 builder.Services.AddScoped<ISellService, SellService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 //Add dependencies to DataContext
-builder.Services.AddSingleton<DataContext>();
-
+builder.Services.AddDbContext<DataContext>(
+    options => options.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=my_db"));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

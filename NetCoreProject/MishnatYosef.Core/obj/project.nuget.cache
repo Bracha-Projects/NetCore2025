@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vz02RwR+l7sKCu6FbnnE7jr3xM5guOL4TZfcfb3+3br7OQ2TUoqNGfrMVcguoKI4njnRdmjksR+8Uo5Kn/GV7g==",
+  "dgSpecHash": "jfOTGH06YEvYuF3ys7eAeOCWTubYYWK1uKFyBw93TAnoq3BKmd/EbdYJ0XspxbUW3hO8pDXHff9ABey7wajJsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
+  "projectFilePath": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

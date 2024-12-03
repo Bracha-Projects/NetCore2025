@@ -1,226 +1,205 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\",
+  "WorkspaceRootPath": "D:\\NetCore\\NetCoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|c:\\users\\yoga\\documents\\mishnatyosef\\mishnatyosef.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\stations_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\stations_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\sell_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\sell_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\products_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\products_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\productonsell_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\productonsell_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\orderedproduct.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\orderedproduct.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\data\\customers_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\data\\customers_db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\orderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\orderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\distributionstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\distributionstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\productonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\productonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\orderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\orderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\distributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\distributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\productonsellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\productonsellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\orderedproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\orderedproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\controllers\\distributionstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\distributionstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\isellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\isellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\iproductonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iproductonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\iorderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iorderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\productonsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\productonsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\distibutionstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\distibutionstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\iproductonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iproductonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/my_db/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\iorderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iorderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\distibutionstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\distibutionstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\idistributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\idistributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\validitychecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\validitychecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.service\\mishnatyosef.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\mishnatyosef.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\mishnatyosef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\mishnatyosef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\sellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\sellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\sellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\productonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\productonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\productonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.data\\mishnatyosef.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\mishnatyosef.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\orderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\orderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\isellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.data\\repositories\\distributionstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\distributionstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|d:\\netcore\\netcoreproject\\mishnatyosef.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7D561D-D5E4-43A9-842E-3018C188D97B}|MishnatYosef.Data\\MishnatYosef.Data.csproj|solutionrelative:mishnatyosef.data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\sellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\productonsellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\productonsellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\orderedproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\orderedproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\distributionstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\distributionstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\productonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\productonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\orderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\orderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\distributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\distributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.api\\mishnatyosef.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\mishnatyosef.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\isellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\isellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\iproductonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iproductonsellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\iorderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\iorderedproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\productonsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\productonsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\iproductonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iproductonsellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\iorderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iorderedproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\idistributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\idistributionstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\validitychecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\validitychecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.service\\mishnatyosef.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F7FB97E-297D-4454-B5D2-BADAC9A9A70C}|MishnatYosef.Service\\MishnatYosef.Service.csproj|solutionrelative:mishnatyosef.service\\mishnatyosef.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\mishnatyosef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\mishnatyosef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\isellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\isellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|D:\\NetCore\\NetCoreProject\\mishnatyosef.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{796D49FA-DD20-4038-883B-17682DB69849}|MishnatYosef.Core\\MishnatYosef.Core.csproj|solutionrelative:mishnatyosef.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|C:\\Users\\Yoga\\Documents\\MishnatYosef\\mishnatyosef.api\\mishnatyosef.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5AC054E-CF2A-490A-B2F3-3A70D34BC45D}|MishnatYosef.API\\MishnatYosef.API.csproj|solutionrelative:mishnatyosef.api\\mishnatyosef.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -230,669 +209,654 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sell_db.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Sell_db.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\Sell_db.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Sell_db.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\Sell_db.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:29:30.773Z"
+              "DocumentIndex": 2,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/my_db/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T17:47:49.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customers_db.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Customers_db.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\Customers_db.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Customers_db.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\Customers_db.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB3AgAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T23:49:17.844Z"
+              "DocumentIndex": 8,
+              "Title": "ProductOnSellRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:59:17.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Program.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Program.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Program.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:27:57.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAADMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\DataContext.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "MishnatYosef.Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\DataContext.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\DataContext.cs",
               "RelativeToolTip": "MishnatYosef.Data\\DataContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T12:46:10.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stations_db.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Stations_db.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\Stations_db.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Stations_db.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\Stations_db.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:28:04.895Z"
+              "DocumentIndex": 3,
+              "Title": "20241203173805_CreateDB.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Migrations\\20241203173805_CreateDB.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:38:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\SellRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\SellRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\SellRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\SellRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:59:31.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductOnSell_db.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\ProductOnSell_db.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\ProductOnSell_db.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\ProductOnSell_db.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\ProductOnSell_db.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:30:52.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderedProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAD4AAABVAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Order.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Order.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:58:40.564Z"
+              "WhenOpened": "2024-11-26T14:44:33.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "DistibutionStation.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\DistibutionStation.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\DistibutionStation.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\DistibutionStation.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\DistibutionStation.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:44:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderedProductRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\OrderedProductRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DistributionStationRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:05.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "MishnatYosef.Data\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T12:57:12.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderedProduct.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\OrderedProduct.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\OrderedProduct.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\OrderedProduct.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\OrderedProduct.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:30:11.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Products_db.json",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Products_db.json",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Data\\Products_db.json",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Data\\Products_db.json",
-              "RelativeToolTip": "MishnatYosef.Data\\Data\\Products_db.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:27:29.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DistributionStationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\DistributionStationRepository.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAQwCwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:58:05.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SellService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\SellService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\SellService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\SellService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\SellService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAB4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:46:12.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\ProductService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\ProductService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:46:07.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:11:00.113Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ProductOnSellService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\ProductOnSellService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\ProductOnSellService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\ProductOnSellService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\ProductOnSellService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Title": "SellController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\SellController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\SellController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\SellController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\SellController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:06:10.572Z"
+              "WhenOpened": "2024-11-26T23:22:10.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\OrderService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\OrderService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Title": "ProductOnSellController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:06:09.156Z"
+              "WhenOpened": "2024-11-26T23:19:48.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "OrderedProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\OrderedProductService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\OrderedProductService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\OrderedProductService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\OrderedProductService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:06:06.433Z"
+              "WhenOpened": "2024-11-26T23:17:53.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DistributionStationService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\DistributionStationService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\DistributionStationService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\DistributionStationService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\DistributionStationService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Title": "OrderedProductController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\OrderedProductController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\OrderedProductController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\OrderedProductController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\OrderedProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:06:04.459Z"
+              "WhenOpened": "2024-11-26T23:16:07.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\Services\\CustomerService.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\Services\\CustomerService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAACMAAAAqAAAA",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:52:04.119Z"
+              "WhenOpened": "2024-11-26T23:14:35.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "SellController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\SellController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\SellController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\SellController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\SellController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAwAAAA",
+              "Title": "DistributionStationController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\DistributionStationController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\DistributionStationController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\DistributionStationController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\DistributionStationController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:22:10.837Z"
+              "WhenOpened": "2024-11-26T23:12:46.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ProductOnSellController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\ProductOnSellController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAADcAAAAeAAAA",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MishnatYosef.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:19:48.092Z"
+              "WhenOpened": "2024-11-26T23:11:00.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Title": "OrderedProduct.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\OrderedProduct.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\OrderedProduct.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\OrderedProduct.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\OrderedProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:17:53.765Z"
+              "WhenOpened": "2024-11-26T14:44:37.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "OrderedProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\OrderedProductController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\OrderedProductController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\OrderedProductController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\OrderedProductController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Customer.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Customer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:16:07.836Z"
+              "WhenOpened": "2024-11-26T14:44:04.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Title": "SellService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\SellService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\SellService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\SellService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\SellService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAxwCQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:14:35.828Z"
+              "WhenOpened": "2024-11-26T14:46:12.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "DistributionStationController.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\DistributionStationController.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Controllers\\DistributionStationController.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Controllers\\DistributionStationController.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Controllers\\DistributionStationController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\ProductService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\ProductService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:12:46.657Z"
+              "WhenOpened": "2024-11-26T14:46:07.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "IStationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IStationRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IStationRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IStationRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IStationRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Title": "ProductOnSellService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\ProductOnSellService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\ProductOnSellService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\ProductOnSellService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\ProductOnSellService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:09:13.443Z"
+              "WhenOpened": "2024-11-26T13:06:10.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ISellRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\ISellRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\ISellRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\ISellRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\ISellRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\OrderService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\OrderService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:11:27.242Z"
+              "WhenOpened": "2024-11-26T13:06:09.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Title": "OrderedProductService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\OrderedProductService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\OrderedProductService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\OrderedProductService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\OrderedProductService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:10:44.085Z"
+              "WhenOpened": "2024-11-26T13:06:06.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "IProductOnSellRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAATAAAA",
+              "Title": "DistributionStationService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\DistributionStationService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\DistributionStationService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\DistributionStationService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\DistributionStationService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:11:13.142Z"
+              "WhenOpened": "2024-11-26T13:06:04.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA8AAAATAAAA",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\Services\\CustomerService.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\Services\\CustomerService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:09:32.195Z"
+              "WhenOpened": "2024-11-26T12:52:04.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "IOrderedProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Title": "Sell.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Sell.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Sell.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Sell.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Sell.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:10:18.418Z"
+              "WhenOpened": "2024-11-26T14:44:50.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:08:35.649Z"
+              "Title": "MishnatYosef.API.csproj",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\MishnatYosef.API.csproj",
+              "RelativeDocumentMoniker": "MishnatYosef.API\\MishnatYosef.API.csproj",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.API\\MishnatYosef.API.csproj",
+              "RelativeToolTip": "MishnatYosef.API\\MishnatYosef.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:54:43.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Sell.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Sell.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Sell.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Sell.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Sell.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAoAAAAAAAAA",
+              "Title": "IStationRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IStationRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IStationRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IStationRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IStationRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:50.788Z"
+              "WhenOpened": "2024-11-26T15:09:13.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "ProductOnSell.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\ProductOnSell.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\ProductOnSell.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\ProductOnSell.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\ProductOnSell.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAcAAAAwAAAA",
+              "Title": "ISellRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\ISellRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\ISellRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\ISellRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\ISellRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:46.099Z"
+              "WhenOpened": "2024-11-26T15:11:27.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Product.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Product.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:41.746Z"
+              "WhenOpened": "2024-11-26T15:10:44.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "OrderedProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\OrderedProduct.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\OrderedProduct.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\OrderedProduct.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\OrderedProduct.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Title": "IProductOnSellRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IProductOnSellRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:37.551Z"
+              "WhenOpened": "2024-11-26T15:11:13.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Order.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Order.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:33.317Z"
+              "WhenOpened": "2024-11-26T15:09:32.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "DistibutionStation.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\DistibutionStation.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\DistibutionStation.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\DistibutionStation.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\DistibutionStation.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAwAAAAwAAAA",
+              "Title": "IOrderedProductRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\IOrderedProductRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:28.852Z"
+              "WhenOpened": "2024-11-26T15:10:18.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Entities\\Customer.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Customer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABIAAAAsAAAA",
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:44:04.965Z"
+              "WhenOpened": "2024-11-26T15:08:35.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Program.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\Program.cs",
-              "RelativeToolTip": "MishnatYosef.API\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAhAAAA",
+              "Title": "ProductOnSell.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\ProductOnSell.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\ProductOnSell.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\ProductOnSell.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\ProductOnSell.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:27:57.184Z"
+              "WhenOpened": "2024-11-26T14:44:46.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "IProductOnSellService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IProductOnSellService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IProductOnSellService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IProductOnSellService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\IProductOnSellService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Entities\\Product.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:55:40.374Z"
+              "WhenOpened": "2024-11-26T14:44:41.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IOrderService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\IOrderService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Title": "IProductOnSellService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IProductOnSellService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IProductOnSellService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IProductOnSellService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\IProductOnSellService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:55:04.073Z"
+              "WhenOpened": "2024-11-26T22:55:40.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "IOrderedProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IOrderedProductService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IOrderedProductService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IOrderedProductService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\IOrderedProductService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAABDAAAA",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IOrderService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:56:08.69Z"
+              "WhenOpened": "2024-11-26T22:55:04.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "IDistributionStationService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IDistributionStationService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IDistributionStationService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IDistributionStationService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\IDistributionStationService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAABAAAAA",
+              "Title": "IOrderedProductService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IOrderedProductService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IOrderedProductService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IOrderedProductService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\IOrderedProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:58:03.583Z"
+              "WhenOpened": "2024-11-26T22:56:08.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\ICustomerService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\ICustomerService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Title": "IDistributionStationService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IDistributionStationService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IDistributionStationService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IDistributionStationService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\IDistributionStationService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:56:58.698Z"
+              "WhenOpened": "2024-11-26T22:58:03.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "ValidityChecks.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\ValidityChecks.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\ValidityChecks.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\ValidityChecks.cs",
-              "RelativeToolTip": "MishnatYosef.Service\\ValidityChecks.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:55:02.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "MishnatYosef.Core",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\MishnatYosef.Core.csproj",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
-              "RelativeToolTip": "MishnatYosef.Core\\MishnatYosef.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T12:43:38.234Z"
+              "WhenOpened": "2024-11-26T22:56:58.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "MishnatYosef.Service",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
-              "RelativeDocumentMoniker": "MishnatYosef.Service\\MishnatYosef.Service.csproj",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
-              "RelativeToolTip": "MishnatYosef.Service\\MishnatYosef.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T12:51:17.093Z"
+              "Title": "ValidityChecks.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\ValidityChecks.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\ValidityChecks.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\ValidityChecks.cs",
+              "RelativeToolTip": "MishnatYosef.Service\\ValidityChecks.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:55:02.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "SellRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\SellRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\SellRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\SellRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\SellRepository.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:59:31.855Z"
+              "Title": "MishnatYosef.Core.csproj",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\MishnatYosef.Core.csproj",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\MishnatYosef.Core.csproj",
+              "RelativeToolTip": "MishnatYosef.Core\\MishnatYosef.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T12:43:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MishnatYosef.Service.csproj",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
+              "RelativeDocumentMoniker": "MishnatYosef.Service\\MishnatYosef.Service.csproj",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Service\\MishnatYosef.Service.csproj",
+              "RelativeToolTip": "MishnatYosef.Service\\MishnatYosef.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T12:51:17.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAD4AAABOAAAA",
+              "Title": "ISellService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\ISellService.cs",
+              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\ISellService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\ISellService.cs",
+              "RelativeToolTip": "MishnatYosef.Core\\Services\\ISellService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:58:56.837Z"
+              "WhenOpened": "2024-11-26T22:56:35.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "ProductOnSellRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\ProductOnSellRepository.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:59:17.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "MishnatYosef.Data\\Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAD4AAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:58:19.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "MishnatYosef.Data",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\MishnatYosef.Data.csproj",
-              "RelativeDocumentMoniker": "MishnatYosef.Data\\MishnatYosef.Data.csproj",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Data\\MishnatYosef.Data.csproj",
-              "RelativeToolTip": "MishnatYosef.Data\\MishnatYosef.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T12:45:57.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ISellService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\ISellService.cs",
-              "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\ISellService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\ISellService.cs",
-              "RelativeToolTip": "MishnatYosef.Core\\Services\\ISellService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:56:35.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IProductService.cs",
+              "DocumentMoniker": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "MishnatYosef.Core\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.Core\\Services\\IProductService.cs",
+              "ToolTip": "D:\\NetCore\\NetCoreProject\\MishnatYosef.Core\\Services\\IProductService.cs",
               "RelativeToolTip": "MishnatYosef.Core\\Services\\IProductService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:54:39.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "MishnatYosef.API",
-              "DocumentMoniker": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\MishnatYosef.API.csproj",
-              "RelativeDocumentMoniker": "MishnatYosef.API\\MishnatYosef.API.csproj",
-              "ToolTip": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\MishnatYosef.API.csproj",
-              "RelativeToolTip": "MishnatYosef.API\\MishnatYosef.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T14:54:43.889Z"
+              "WhenOpened": "2024-11-26T22:54:39.449Z",
+              "EditorCaption": ""
             }
           ]
         }

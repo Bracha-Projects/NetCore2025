@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MishnatYosef.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5657139aba9461e695a2fc464c24a2040e935b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MishnatYosef.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MishnatYosef.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

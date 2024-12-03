@@ -2,6 +2,7 @@
 {
     public class DistibutionStation
     {
+        public int Id;
         public int Station { get; set; }
         public string StationName { get; set; }
         public string Address { get; set; }
@@ -12,8 +13,9 @@
         public string StationUsherPhone { get; set; }
         public int MaximumCapacity { get; set; }
 
-        public DistibutionStation(int station, string stationName, string address, string city, string stationManagerName, string stationManagerPhone, string stationUsherName, string stationUsherPhone, int maximumCapacity)
+        public DistibutionStation(int id,int station, string stationName, string address, string city, string stationManagerName, string stationManagerPhone, string stationUsherName, string stationUsherPhone, int maximumCapacity)
         {
+            Id = id;
             Station = station;
             StationName = stationName;
             Address = address;

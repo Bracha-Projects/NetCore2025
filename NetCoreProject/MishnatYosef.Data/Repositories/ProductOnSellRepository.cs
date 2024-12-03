@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MishnatYosef.Data.Repositories
 {
-    public class ProductOnSellRepository:IProductOnSellRepository
+    public class ProductOnSellRepository : IProductOnSellRepository
     {
         readonly DataContext _dataContext;
 
@@ -18,7 +18,7 @@ namespace MishnatYosef.Data.Repositories
         }
         public List<ProductOnSell> GetAllProductsOnSell()
         {
-            return _dataContext.ProductsOnSell;
+            return _dataContext.ProductsOnSell.ToList();
         }
         public ProductOnSell GetProductById(int id)
         {
@@ -27,53 +27,34 @@ namespace MishnatYosef.Data.Repositories
         }
         public bool AddProductToList(ProductOnSell product)
         {
-            try
-            {
-                _dataContext.ProductsOnSell.Add(product);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            _dataContext.ProductsOnSell.Add(product);
+            return true;
         }
         public bool RemoveProductById(int id)
         {
-            try
-            {
-                var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
-                if (result == null)
-                {
-                    return false;
-                }
-                _dataContext.Customers.Remove(result);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
+            if (result == null)
             {
                 return false;
             }
+            _dataContext.Customers.Remove(result);
+            return true;
         }
-        public bool UpdateProductOnSell(ProductOnSell product,int id)
+        public bool UpdateProductOnSell(ProductOnSell product, int id)
         {
-            try
-            {
-                var result = _dataContext.ProductsOnSell.FindIndex(c => c.Id == id);
-                if (result == -1)
-                {
-                    return false;
-                }
-                _dataContext.ProductsOnSell[result] = product;
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.ProductsOnSell.ToList().FindIndex(c => c.Id == id);
+            if (result == -1)
             {
                 return false;
             }
-
+            List<ProductOnSell> lst = _dataContext.ProductsOnSell.ToList();
+            if(product.Sell!=0)
+                lst[result].Sell = product.Sell;
+            if (product.Product != 0)
+                lst[result].Product = product.Product;
+            if (product.QuantityInStock != 0)
+                lst[result].QuantityInStock = product.QuantityInStock;
+            return true;
         }
     }
 }

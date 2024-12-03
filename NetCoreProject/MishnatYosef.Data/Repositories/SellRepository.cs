@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MishnatYosef.Data.Repositories
 {
-    public class SellRepository:ISellRepository
+    public class SellRepository : ISellRepository
     {
         readonly DataContext _dataContext;
         public SellRepository(DataContext dataContext)
@@ -17,7 +17,7 @@ namespace MishnatYosef.Data.Repositories
         }
         public List<Sell> GetAllSells()
         {
-            return _dataContext.Sells;
+            return _dataContext.Sells.ToList();
         }
         public Sell GetSellById(int id)
         {
@@ -26,52 +26,36 @@ namespace MishnatYosef.Data.Repositories
         }
         public bool AddSellToList(Sell sell)
         {
-            try
-            {
-                _dataContext.Sells.Add(sell);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            _dataContext.Sells.Add(sell);
+            return true;
         }
         public bool RemoveSellById(int id)
         {
-            try
-            {
-                var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
-                if (result == null)
-                {
-                    return false;
-                }
-                _dataContext.Customers.Remove(result);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
+            if (result == null)
             {
                 return false;
             }
+            _dataContext.Customers.Remove(result);
+            return true;
         }
-        public bool UpdateSell(Sell sell,int id)
+        public bool UpdateSell(Sell sell, int id)
         {
-            try
-            {
-                var result = _dataContext.Sells.FindIndex(c => c.Id == id);
-                if (result == -1)
-                {
-                    return false;
-                }
-                _dataContext.Sells[result] = sell;
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.Sells.ToList().FindIndex(c => c.Id == id);
+            if (result == -1)
             {
                 return false;
             }
+            List<Sell> lst = _dataContext.Sells.ToList();
+            if(sell.Type !=0)
+                lst[result].Type = sell.Type;
+            if (sell.SellHours != null && sell.SellHours!="")
+                lst[result].SellHours = sell.SellHours;
+            if (sell.Station != 0)
+                lst[result].Station = sell.Station;
+            if (sell.ClosingTime != null)
+                lst[result].ClosingTime = sell.ClosingTime;
+            return true;
         }
     }
 }

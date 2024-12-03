@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MishnatYosef.Data.Repositories
 {
-    public class OrderedProductRepository:IOrderedProductRepository
+    public class OrderedProductRepository : IOrderedProductRepository
     {
         readonly DataContext _dataContext;
 
@@ -18,7 +18,7 @@ namespace MishnatYosef.Data.Repositories
         }
         public List<OrderedProduct> GetAllOrderedProducts()
         {
-            return _dataContext.OrderedProducts;
+            return _dataContext.OrderedProducts.ToList();
         }
         public OrderedProduct GetOrderedProductById(int id)
         {
@@ -27,52 +27,34 @@ namespace MishnatYosef.Data.Repositories
         }
         public bool AddProductTolist(OrderedProduct product)
         {
-            try
-            {
-                _dataContext.OrderedProducts.Add(product);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            _dataContext.OrderedProducts.Add(product);
+            return true;
         }
         public bool RemoveProductById(int id)
         {
-            try
-            {
-                var result = _dataContext.OrderedProducts.FirstOrDefault(c => c.Id == id);
-                if (result == null)
-                {
-                    return false;
-                }
-                _dataContext.OrderedProducts.Remove(result);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.OrderedProducts.FirstOrDefault(c => c.Id == id);
+            if (result == null)
             {
                 return false;
             }
+            _dataContext.OrderedProducts.Remove(result);
+            return true;
         }
-        public bool UpdateProduct(OrderedProduct product,int id)
+        public bool UpdateProduct(OrderedProduct product, int id)
         {
-            try
-            {
-                var result = _dataContext.OrderedProducts.FindIndex(c => c.Id == id);
-                if (result == -1)
-                {
-                    return false;
-                }
-                _dataContext.OrderedProducts[result] = product;
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.OrderedProducts.ToList().FindIndex(c => c.Id == id);
+            if (result == -1)
             {
                 return false;
             }
+            List<OrderedProduct> lst = _dataContext.OrderedProducts.ToList();
+            if (product.Order !=0)
+                lst[result].Order = product.Order;
+            if (product.Product != 0)
+                lst[result].Product = product.Product;
+            if (product.ProductQuantity != 0)
+                lst[result].ProductQuantity = product.ProductQuantity;
+            return true;
         }
     }
 }

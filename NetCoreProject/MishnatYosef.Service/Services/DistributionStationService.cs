@@ -29,7 +29,13 @@ namespace MishnatYosef.Service.Services
         }
         public bool UpdateStation(int id, DistibutionStation s)
         {
-            return _stationRepository.UpdateStation(s, id);
+            if(FindIndex(id) != -1) 
+                return _stationRepository.UpdateStation(s, id);
+            return _stationRepository.AddStationToList(s);
+        }
+        private int FindIndex(int station)
+        {
+            return GetService().FindIndex(c => c.Station == station);
         }
     }
 }

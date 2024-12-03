@@ -33,7 +33,13 @@ namespace MishnatYosef.Service.Services
         {
             if (!c.Identity.CheckId())
                 return false;
-            return _customerRepository.UpdateCustomer(c, id);
+            if(FindIndex(id) != -1)
+                return _customerRepository.UpdateCustomer(c, id);
+            return _customerRepository.AddCustomerToList(c);
+        }
+        private int FindIndex(int id)
+        {
+            return GetService().FindIndex(c=>c.Id==id);
         }
 
     }

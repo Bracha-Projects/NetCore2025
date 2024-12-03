@@ -30,7 +30,13 @@ namespace MishnatYosef.Service.Services
         }
         public bool UpdateCustomer(int id, Sell s)
         {
-            return _sellRepository.UpdateSell(s,id);
+            if(FindIndex(id) != -1) 
+                return _sellRepository.UpdateSell(s,id);
+            return _sellRepository.AddSellToList(s);
+        }
+        private int FindIndex(int id)
+        {
+            return GetService().FindIndex(c => c.Id == id);
         }
     }
 }

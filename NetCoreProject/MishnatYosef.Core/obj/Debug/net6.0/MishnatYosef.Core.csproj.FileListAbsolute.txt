@@ -9,3 +9,15 @@ C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatY
 C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\refint\MishnatYosef.Core.dll
 C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.pdb
 C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\ref\MishnatYosef.Core.dll
+D:\NetCore\NetCoreProject\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.deps.json
+D:\NetCore\NetCoreProject\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.dll
+D:\NetCore\NetCoreProject\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.pdb
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.AssemblyInfoInputs.cache
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.AssemblyInfo.cs
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.csproj.CoreCompileInputs.cache
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.sourcelink.json
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.dll
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\refint\MishnatYosef.Core.dll
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.pdb
+D:\NetCore\NetCoreProject\MishnatYosef.Core\obj\Debug\net6.0\ref\MishnatYosef.Core.dll

@@ -31,8 +31,13 @@ namespace MishnatYosef.Service.Services
         }
         public bool UpdateOrderedProduct(int id, OrderedProduct o)
         {
-            _orderedProductRepository.UpdateProduct(o,id);
-            return true;
+            if(FindIndex(id) != -1)
+                return _orderedProductRepository.UpdateProduct(o,id);
+            return _orderedProductRepository.AddProductTolist(o);   
+        }
+        private int FindIndex(int id)
+        {
+            return GetService().FindIndex(c => c.Id == id);
         }
     }
 }

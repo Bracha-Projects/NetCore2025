@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MishnatYosef.Data.Repositories
 {
-    public class ProductRepository:IProductRepository
+    public class ProductRepository : IProductRepository
     {
         readonly DataContext _dataContext;
 
@@ -18,61 +18,49 @@ namespace MishnatYosef.Data.Repositories
         }
         public List<Product> GetAllProducts()
         {
-            return _dataContext.Products;
+            return _dataContext.Products.ToList();
         }
         public Product GetProductById(int id)
         {
-            var result = _dataContext.Products.Find(p=>p.Id==id);
+            var result = _dataContext.Products.ToList().Find(p => p.Id == id);
             return result;
         }
         public bool AddProductToList(Product product)
         {
-            try
-            {
-                _dataContext.Products.Add(product);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            _dataContext.Products.Add(product);
+            return true;
         }
         public bool RemoveProductById(int id)
         {
-            try
-            {
-                var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
-                if (result == null)
-                {
-                    return false;
-                }
-                _dataContext.Customers.Remove(result);
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.Customers.FirstOrDefault(c => c.Id == id);
+            if (result == null)
             {
                 return false;
             }
+            _dataContext.Customers.Remove(result);
+            return true;
         }
-        public bool UpdateProduct(Product product,int id)
+        public bool UpdateProduct(Product product, int id)
         {
-            try
-            {
-                var result = _dataContext.Products.FindIndex(c => c.Id == id);
-                if (result == -1)
-                {
-                    return false;
-                }
-                _dataContext.Products[result] = product;
-                _dataContext.SaveChange();
-                return true;
-            }
-            catch (Exception ex)
+            var result = _dataContext.Products.ToList().FindIndex(c => c.Id == id);
+            if (result == -1)
             {
                 return false;
             }
+            List<Product> lst = _dataContext.Products.ToList();
+            if (product.ProductName != null && product.ProductName != "")
+                lst[result].ProductName = product.ProductName;
+            if (product.Image!=0)
+                lst[result].Image = product.Image;
+            if (product.Description != null && product.Description!="")
+                lst[result].Description = product.Description;
+            if (product.Comments != null && product.Comments != "")
+                lst[result].Comments = product.Comments;
+            if (product.Category != 0)
+                lst[result].Category = product.Category;
+            if (product.Price != 0)
+                lst[result].Price = product.Price;
+            return true;
         }
     }
 }
