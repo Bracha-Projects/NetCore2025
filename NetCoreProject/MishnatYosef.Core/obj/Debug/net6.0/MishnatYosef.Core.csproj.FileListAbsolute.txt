@@ -1,0 +1,11 @@
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.deps.json
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\bin\Debug\net6.0\MishnatYosef.Core.pdb
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.AssemblyInfoInputs.cache
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.AssemblyInfo.cs
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\refint\MishnatYosef.Core.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\MishnatYosef.Core.pdb
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Core\obj\Debug\net6.0\ref\MishnatYosef.Core.dll

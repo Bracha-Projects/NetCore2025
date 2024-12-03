@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "43gB9uI8kLYQggVNMjOKcIcGxJIyi6f04OSuS6juLHIv8dD1PtST7bLIldA4bpuqzi40ZxM84V5BY7j2v7kLsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoga\\Documents\\MishnatYosef\\MishnatYosef.API\\MishnatYosef.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yoga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

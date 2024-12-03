@@ -1,0 +1,15 @@
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\bin\Debug\net6.0\MishnatYosef.Service.deps.json
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\bin\Debug\net6.0\MishnatYosef.Service.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\bin\Debug\net6.0\MishnatYosef.Service.pdb
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\bin\Debug\net6.0\MishnatYosef.Core.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\bin\Debug\net6.0\MishnatYosef.Core.pdb
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.csproj.AssemblyReference.cache
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.AssemblyInfoInputs.cache
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.AssemblyInfo.cs
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatY.BD277E39.Up2Date
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\refint\MishnatYosef.Service.dll
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\MishnatYosef.Service.pdb
+C:\Users\Yoga\Documents\MishnatYosef\MishnatYosef.Service\obj\Debug\net6.0\ref\MishnatYosef.Service.dll
